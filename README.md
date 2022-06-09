@@ -1,5 +1,5 @@
 # FinalProject-OOP-2501990331-MariaClarin
- This is Maria Clarin's OOP final project repository
+This is Maria Clarin's OOP final project repository. Netbeans IDE recommended.
 
 ## Video Demo GDrive Link :
 https://drive.google.com/file/d/1kQNC1ELN08ArUR1GFuksaZQXCeflIIGD/view?usp=sharing 
