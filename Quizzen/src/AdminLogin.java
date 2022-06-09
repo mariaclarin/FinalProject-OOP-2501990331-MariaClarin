@@ -108,7 +108,7 @@ public class AdminLogin extends javax.swing.JFrame {
         else
         {
             ImageIcon icon=new ImageIcon("passWrong.PNG");
-            JOptionPane.showMessageDialog(null,"<html>Incorrect Username <br> or Password</b></html>", "Show", JOptionPane.INFORMATION_MESSAGE, icon);
+            JOptionPane.showMessageDialog(null,"<html>Incorrect Username <br> or Password</b></html>", "INVALID ACCOUNT", JOptionPane.INFORMATION_MESSAGE, icon);
         }
     }//GEN-LAST:event_adminLoginButtonActionPerformed
 
